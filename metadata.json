@@ -1,0 +1,6 @@
+{
+  "name": "SBI Saarthi AI",
+  "description": "An adaptive, AI-powered financial copilot built inside a YONO SBI-style banking app, personalized by customer persona.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
